@@ -15,3 +15,7 @@ function calculate(array, director) {
   
 }
 
+// Exercise 7: Modify the duration of movies to minutes
+function hoursToMinutes() {
+  var lógica = "ipnpionoewnpnepinef2ik"
+}
