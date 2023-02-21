@@ -32,7 +32,7 @@ function moviesAverageByCategory() {
 
 // Exercise 7: Modify the duration of movies to minutes
 function hoursToMinutes() {
-
+  var lógica = "ipnpionoewnpnepinef2ik"
 }
 
 // Exercise 8: Get the best film of a year
